@@ -1,4 +1,4 @@
-package java_1.lesson_1;
+//package java_1.lesson_1;
 
 /**
  * Created by асер on 05.10.2016.
