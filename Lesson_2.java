@@ -34,8 +34,6 @@ class Lesson_2 {
         System.out.println();
 
         System.out.println(calculator());
-
-
     }
 
     static void reversArr(int[] arr) {
